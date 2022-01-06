@@ -9,6 +9,10 @@ public class TestOne {
 	  
 }
   
-  
+  public static void methdB() {
+	  
+	  // THis is SDET-B branch
+	  
+  }
   
 }
