@@ -9,6 +9,11 @@ public class TestEclipse {
 		
 		System.out.println();
 		
+		public static void methodA(){
+		
+			// This is from remote repository
+		}
+		
 	}
 
 }
